@@ -35,5 +35,4 @@ A responsive web-based application to **monitor vital signs** and **predict heal
 
 ---
 
-## 📂 Folder Structure
 
